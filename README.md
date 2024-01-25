@@ -4,28 +4,6 @@
 <h3 align="center">🔭 I’m currently working on Skytale Project</h3>
 <h3 align="center">▰▰▰▰▰▰▰▰▰▰▱▱▱ 77%</h3>
 
-```py
-  0 1 2 3 4 5 6 7 
-------------------
-0|R|N|B|K|Q|B|N|R|
-------------------
-1|P|P|P|P|P|P|P|P|
-------------------
-2| | | | | | | | |
-------------------
-3| | | | | | | | |
-------------------
-4| | | | | | | | |
-------------------
-5| | | | | | | | |
-------------------
-6|p|p|p|p|p|p|p|p|
-------------------
-7|r|n|b|q|k|b|n|r|
-------------------
-```
-
-
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://instagram.com/momoriouht" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="momoriouht" height="30" width="40" /></a>
