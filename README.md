@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm MomorioUHT</h1>
 <h3 align="center">Computer Science 38, KasetSart University 83</h3>
 
-- 🔭 I’m currently working on **Skytale Project**
-- ▰▰▰▰▰▰▰▰▰▰▱▱▱ 77%
+<h3 align="center">🔭 I’m currently working on **Skytale Project**</h3>
+<h3 align="center">▰▰▰▰▰▰▰▰▰▰▱▱▱ 77%</h3>
 
   
 <h3 align="left">Connect with me:</h3>
