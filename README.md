@@ -1,8 +1,27 @@
-<h1 align="center">Hi 👋, I'm MomorioUHT</h1>
-<h3 align="center">Computer Science 38, KasetSart University 83</h3>
+### Hi 👋, I'm MomorioUHT
 
-<h3 align="center">🔭 I’m currently working on Skytale Project</h3>
-<h3 align="center">▰▰▰▰▰▰▰▰▰▰▱▱▱ 77%</h3>
+```c
+#include <stdio.h>
+
+typedef struct {
+    char name[40];
+    int age;
+    char fav_games[40];
+} Dev;
+
+int main() {
+    Dev std;
+    std.name = "MomorioUHT";
+    std.age = 19;
+    std.fav_games = {
+        "Minecraft",
+        "Roblox",
+    }
+
+    return 0;
+}
+
+```
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
