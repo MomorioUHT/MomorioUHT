@@ -14,14 +14,14 @@ let Developer = {
     ProgrammingLanguages: {
         "Python": "Lucus is a stupid kid",
         "C": "Malloc is my friend",
-        "CPP": "yayy to llu format everytime anymore"
+        "CPP": "yayy no llu format everytime anymore"
     },
     FrontEnd: {
         "React": "Better javascript framework huh?",
         "HTML": "Everybody can do it i know",
         "JavaScript": "Another everybody can do it",
         "TypeScript": "JavaScript plus lol",
-        "CSS": "I hate boopstrap",
+        "CSS": "I hate bootstrap",
         "CRUD": "Create Read Update Delete, thats all i know",
         "API": "Idk where to put this option, backend or frontend?"
     },
