@@ -1,6 +1,6 @@
 ### Hi 👋, I'm MomorioUHT
 
-```js
+```c
 let Developer = {
     Name: "MomorioUHT",
     Age: 19,
@@ -12,7 +12,7 @@ let Developer = {
         "Valorant",
     ],
     ProgrammingLanguages: {
-        "Python": "Lucus is a stupid kid,
+        "Python": "Lucus is a stupid kid",
         "C": "Malloc is my friend",
         "CPP": "yayy to llu format everytime anymore"
     },
