@@ -1,26 +1,39 @@
 ### Hi 👋, I'm MomorioUHT
 
-```c
-#include <stdio.h>
-
-typedef struct {
-    char name[40];
-    int age;
-    char fav_games[40];
-} Dev;
-
-int main() {
-    Dev std;
-    std.name = "MomorioUHT";
-    std.age = 19;
-    std.fav_games = {
-        "Minecraft",
-        "Roblox",
+```js
+let Developer = {
+    Name: "MomorioUHT",
+    Age: 19,
+    Major: "Computer Science",
+    University: "Kasetsart University",
+    Games: [
+        "Minecraft", 
+        "Roblox", 
+        "Valorant",
+    ],
+    ProgrammingLanguages: {
+        "Python": "Nah to slow",
+        "C": "Malloc is my friend",
+        "CPP": "yayy to llu format everytime anymore"
+    },
+    FrontEnd: {
+        "React": "Better javascript framework huh?",
+        "HTML": "Everybody can do it i know",
+        "JavaScript": "Another everybody can do it",
+        "TypeScript": "JavaScript plus lol",
+        "CSS": "I hate boopstrap",
+    },
+    BackEnd: {
+        "Docker": "Vroom Vroom",
+        "CICD": "IDK I just wrote it and it works",
+        "ExpressJS": "Feels ok but not so often",
+        "MySQL": "Ewwww SEQUAL",
+        "NodeJS": "I use it every time i do backend"
+    },
+    Other: {
+        "Skript": "on join: kick player"
     }
-
-    return 0;
-}
-
+};
 ```
 
 <h3 align="left">Connect with me</h3>
