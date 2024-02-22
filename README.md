@@ -3,7 +3,6 @@
 ```js
 let Developer = {
     Name: "MomorioUHT",
-    Age: 19,
     Major: "Computer Science",
     University: "Kasetsart University",
     Games: [
