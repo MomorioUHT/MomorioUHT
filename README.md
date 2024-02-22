@@ -1,42 +1,20 @@
 ### Hi 👋, I'm MomorioUHT
 
-```js
-let Developer = {
-    Name: "MomorioUHT",
-    Age: 19,
-    Major: "Computer Science",
-    University: "Kasetsart University",
-    Games: [
-        "Minecraft", 
-        "Roblox", 
-        "Valorant",
-    ],
-    ProgrammingLanguages: {
-        "Python": "Lucus is a stupid kid",
-        "C": "Malloc is my friend",
-        "CPP": "yayy to llu format everytime anymore"
-    },
-    FrontEnd: {
-        "React": "Better javascript framework huh?",
-        "HTML": "Everybody can do it i know",
-        "JavaScript": "Another everybody can do it",
-        "TypeScript": "JavaScript plus lol",
-        "CSS": "I hate boopstrap",
-        "CRUD": "Create Read Update Delete, thats all i know",
-        "API": "Idk where to put this option, backend or frontend?"
-    },
-    BackEnd: {
-        "Docker": "Vroom Vroom",
-        "CICD": "IDK I just wrote it and it works",
-        "ExpressJS": "Feels ok but not so often",
-        "MySQL": "Ewwww SEQUAL",
-        "NodeJS": "I use it every time i do backend",
-        "Nginx": "Serve it blyat"
-    },
-    Other: {
-        "Skript": "on join: kick player"
+```py
+student = {
+    'firstName': 'John',
+    'lastName': 'Doe',
+    'age': 20,
+    'grade': 85,
+    'courses': ['Math', 'English', 'Science'],
+    'address': {
+        'street': '123 Main St',
+        'city': 'Anytown',
+        'state': 'CA',
+        'zip': '12345'
     }
-};
+}
+
 ```
 
 <h3 align="left">Connect with me</h3>
