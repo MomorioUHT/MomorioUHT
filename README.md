@@ -22,13 +22,16 @@ let Developer = {
         "JavaScript": "Another everybody can do it",
         "TypeScript": "JavaScript plus lol",
         "CSS": "I hate boopstrap",
+        "CRUD": "Create Read Update Delete, thats all i know",
+        "API": "Idk where to put this option, backend or frontend?"
     },
     BackEnd: {
         "Docker": "Vroom Vroom",
         "CICD": "IDK I just wrote it and it works",
         "ExpressJS": "Feels ok but not so often",
         "MySQL": "Ewwww SEQUAL",
-        "NodeJS": "I use it every time i do backend"
+        "NodeJS": "I use it every time i do backend",
+        "Nginx": "Serve it blyat"
     },
     Other: {
         "Skript": "on join: kick player"
