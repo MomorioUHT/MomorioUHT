@@ -6,7 +6,6 @@ let Developer = {
     Age: 19,
     Major: "Computer Science",
     University: "Kasetsart University",
-    Discord: "MomorioUHT#7440",
     Games: [
         "Minecraft", 
         "Roblox", 
