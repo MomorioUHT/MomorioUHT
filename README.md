@@ -1,6 +1,6 @@
 ### Hi 👋, I'm MomorioUHT
 
-```c
+```js
 let Developer = {
     Name: "MomorioUHT",
     Age: 19,
