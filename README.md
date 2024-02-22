@@ -12,7 +12,7 @@ let Developer = {
         "Valorant",
     ],
     ProgrammingLanguages: {
-        "Python": "Nah to slow",
+        "Python": "Lucus is a stupid kid,
         "C": "Malloc is my friend",
         "CPP": "yayy to llu format everytime anymore"
     },
