@@ -1,41 +1,26 @@
 ## Hi Strangers👋
 
 ```js
-let Developer = {
-    Name: "MomorioUHT",
-    Major: "Computer Science",
-    University: "Kasetsart University",
-    Games: [
-        "Minecraft", 
-        "Roblox", 
-        "Valorant",
-    ],
-    ProgrammingLanguages: {
-        "Python": "Lucus is always a stupid kid",
-        "C": "Malloc is my friend",
-        "CPP": "yayy no llu format everytime anymore"
-    },
-    FrontEnd: {
-        "React": "Better javascript framework huh?",
-        "HTML": "Everybody can do it i know",
-        "JavaScript": "Another everybody can do it",
-        "TypeScript": "JavaScript plus lol",
-        "CSS": "I hate bootstrap",
-        "CRUD": "Create Read Update Delete, thats all i know",
-        "API": "Idk where to put this option, backend or frontend?"
-    },
-    BackEnd: {
-        "Docker": "Vroom Vroom",
-        "CICD": "IDK I just wrote it and it works",
-        "ExpressJS": "Feels ok but not so often",
-        "MySQL": "Ewwww SEQUAL",
-        "NodeJS": "I use it every time i do backend",
-        "Nginx": "Serve it blyat"
-    },
-    Other: {
-        "Skript": "on join: kick player"
-    }
-};
+MomorioUHT
+1 9
+  0 1 2 3 4 5 6 7 
+------------------
+0| | | | | | | | |
+------------------
+1| |X|X| | |X|X| |
+------------------
+2|X| | |X|X| | |X|
+------------------
+3|X| | | | | | |X|
+------------------
+4| |X| | | | |X| |
+------------------
+5| | |X| | |X| | |
+------------------
+6| | | |X|X| | | |
+------------------
+7| | | | | | | | |
+------------------
 ```
 
 <h3 align="left">See me in here</h3>
