@@ -1,8 +1,8 @@
 ## Hi Strangers👋
 
 ```js
-MomorioUHT
-1 9
+Input name: MomorioUHT
+Input Age: 1 9
   0 1 2 3 4 5 6 7 
 ------------------
 0| | | | | | | | |
