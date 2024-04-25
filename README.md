@@ -6,7 +6,6 @@
 </p>
 
 ![My Repository's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MomorioUHT&layout=compact&langs_count=8)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MomorioUHT)]
 
 ```js
 MomorioUHT
