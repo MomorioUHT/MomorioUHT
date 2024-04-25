@@ -1,5 +1,7 @@
 ## Hi Strangers👋
 
+![My Repository's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MomorioUHT&layout=compact)
+
 ```js
 MomorioUHT
 1 9
