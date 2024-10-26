@@ -5,12 +5,12 @@
 <h3 align="left">👋 Hi Im MomorioUHT! ( ˘͈ ᵕ ˘͈♡)</h3>
 <p align="left" style="font-size: 1.1em; line-height: 1.5;">
   <strong>🌟 Your local silly <em>progaymer</em> from Kasetsart University</strong> <br/>
-  <strong>📘 Pursuing a Bachelor’s in Computer Science</strong> <br/><br/>
-
+  <strong>🖥️ Pursuing a Bachelor’s in Computer Science</strong> <br/><br/>
+  
   <strong>✨ A Weaver of Enchanting Programming Puzzles</strong> <br/>
-  <span>🌌 Conjuring challenges inspired by tales of realms and heroes,</span> <br/>
-  <span>📜 Inviting junior students into a mystical world of curiosity,</span> <br/>
-  <span>💫 Guiding them until even the most steadfast grow spellbound… or perhaps a bit weary.</span>
+  <span>🔮 Conjuring challenges inspired by the mystical worlds of magic, where stars shimmer and magic unfolds,</span> <br/>
+  <span>🧙‍♂️ Guiding junior students into a magical realm of wonder,</span> <br/>
+  <span>🌌 Inviting them to explore until even the most steadfast are captivated… or perhaps a bit spellbound.</span>
 </p>
 
 <h3 align="left">🌐 You can also find me here ᓚ₍ ^. .^₎</h3>
