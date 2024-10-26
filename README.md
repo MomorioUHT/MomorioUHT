@@ -3,8 +3,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=momoriouht" alt="momoriouht" /></a> </p>
 
 <h3 align="left">👋 Hi Im MomorioUHT! ( ˘͈ ᵕ ˘͈♡)</h3>
-<p align="left">
-  <strong>Your local silly progaymer from Kasetsart University in bachelor of Computer Science</strong>
+<p align="left" style="font-size: 1.1em; line-height: 1.5;">
+  <strong>🌟 Your local silly <em>progaymer</em> from Kasetsart University</strong> <br/>
+  <strong>📘 Pursuing a Bachelor’s in Computer Science</strong> <br/><br/>
+
+  <strong>✨ A Weaver of Enchanting Programming Puzzles</strong> <br/>
+  <span>🌌 Conjuring challenges inspired by tales of realms and heroes,</span> <br/>
+  <span>📜 Inviting junior students into a mystical world of curiosity,</span> <br/>
+  <span>💫 Guiding them until even the most steadfast grow spellbound… or perhaps a bit weary.</span>
 </p>
 
 <h3 align="left">🌐 You can also find me here ᓚ₍ ^. .^₎</h3>
