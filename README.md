@@ -24,7 +24,7 @@
   <ul style="list-style-type: none; padding: 0;">
     <li>💤 <strong>Sleep in cozy blanket</strong></li>
     <li>🎮 <strong>Play VALORANT</strong> •⩊•</li>
-    <li>🔮 <strong>Write a novel about <em>"Aetheria Domain of Moonshadow and Starlight"</em></strong></li>
+    <li>🔮 <strong>Write a programming novel about <em>"Aetheria Domain of Moonshadow and Starlight"</em></strong></li>
   </ul>
 </p>
 
