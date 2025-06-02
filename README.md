@@ -1,16 +1,27 @@
 <h3 align="left">👋 Hi Im MomorioUHT! ( ˘͈ ᵕ ˘͈♡)</h3>
-<span>🎓 Data Structures & Algorithms Teacher Assistant @ <strong>Kasetsart University</strong></span> <br/>
+<span>🎓 Data Structures & Algorithms's Teacher Assistant @ <strong>Kasetsart University</strong></span> <br/>
 
+---
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=momoriouht" alt="momoriouht" /></a> </p>
+
+<h3 align="left">🌟 Interests in ₍^. ̫.^₎ </h3>
 <p align="left" style="font-size: 1.1em; line-height: 1.5;">
+  <span>📈 Data Science</span> <br/>
+  <span>⚡ Working with Machine Learning</span> <br/>
+  <span>🌱 Prediction Machine Learning models</span>
+</p>
 
-  <strong>✨ A Weaver of Enchanting Programming Puzzles</strong> <br/>
-  <span>🔮 Conjuring challenges inspired by the mystical worlds of magic, where stars shimmer and magic unfolds,</span> <br/>
-  <span>🧙‍♂️ Guiding junior students into a magical realm of wonder,</span> <br/>
+<h3 align="left">📝 Magical Programming Novel Writer</h3>
+<p align="left" style="font-size: 1.1em; line-height: 1.5;">
+  <span>✨ A Weaver of Enchanting Programming Puzzles</span><br/>
+  <span>🔮 Conjuring challenges inspired by the mystical worlds of magic, where stars shimmer and magic unfolds,</span><br/>
+  <span>🧙‍♂️ Guiding junior students into a magical realm of wonder,</span><br/>
   <span>🌌 Inviting them to explore until even the most steadfast are captivated… or perhaps a bit spellbound.</span>
 </p>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=momoriouht" alt="momoriouht" /></a> </p>
 
 <h3 align="left">🌐 You can also find me here ᓚ₍ ^. .^₎</h3>
 <p align="left">
@@ -64,7 +75,7 @@
   </a> 
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=momoriouht&show_icons=true&locale=en&layout=compact" alt="momoriouht" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=momoriouht&show_icons=true&locale=en" alt="momoriouht" /></p>
+
+<br/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=momoriouht&show_icons=true&locale=en&layout=compact" alt="momoriouht" /></p><br/>
