@@ -1,34 +1,34 @@
 <h3 align="left">👋 Hi Im MomorioUHT! ( ˘͈ ᵕ ˘͈♡)</h3>
-<span>🎓 Data Structures & Algorithms's Teacher Assistant @ <strong>Kasetsart University</strong></span> <br/>
+<span>🎓 (Retired) Data Structures & Algorithms's Teacher Assistant @ <strong>Kasetsart University</strong></span> <br/>
 
 ---
-
-
-<img src='https://public-files.gumroad.com/cr8lhq7ca6g8m5jmvf0oa5sjjc9d' height=200px />
-<h3 align="left">🌟 Interests in ₍^. ̫.^₎ </h3>
-<p align="left">
-  <ul style="list-style-type: none; padding: 0;">
-    <li>🌐 <strong>Web Application Development (mainly React framework)</strong></li>
-    <li>🗄️ <strong>Backend development and API design (express js)</strong></li>
-  </ul>
-</p>
 
 <h3 align="left">⚒️ Skills ( • ̀ω•́ )✧</h3>
 <p align="left">
   <ul style="list-style-type: none; padding: 0;">
-    <li>📖 <strong>Programming Language: Python, C, C++, Java, R</strong></li>
+    <li>📖 <strong>Programming Language: Python, C, C++, Java</strong></li>
     <li>🌐 <strong>Web Development: React, Javascript, Typescript, HTML5, CSS (Ant Design, Bootstrap), Axios, Redux, JWT, Express, NodeJs</strong></li>
     <li>🛠️ <strong>Tools: Nginx, MySQL, Docker, Draw.io LucidChart</strong></li>
   </ul>
 </p>
 
-<h3 align="left">✨ Free Time Activities/Hobbies (˶˃ ᵕ ˂˶)</h3>
+<h3 align="left">🌟 Free Time Activities (About Tech) ₍^. ̫.^₎ </h3>
+<p align="left">
+  <ul style="list-style-type: none; padding: 0;">
+    <li>🚧 <strong>Infrastructure Management (docker, compose, nginx, unix related)</strong></li>
+    <li>🧱 <strong>Minecraft Server Spigot/BungeCord Proxy Plugin Development </strong></li>
+    <li>🌐 <strong>Web Application Development (mainly React & Bootstrap)</strong></li>
+    <li>🗄️ <strong>Backend development and API design (express js)</strong></li>
+  </ul>
+</p>
+
+<h3 align="left">✨ Other Activities, Hobbies (˶˃ ᵕ ˂˶)</h3>
 <p align="left">
   <ul style="list-style-type: none; padding: 0;">
     <li>💤 <strong>Sleep in cozy blanket</strong></li>
     <li>🎮 <strong>Play VALORANT (Peak Diamond 1 V25A6)</strong> •⩊•</li>
-    <li>🔮 <strong>Write a programming novel about <em>"Aetheria Domain of Moonshadow and Starlight"</em></strong></li>
-    <li>🟩 <strong>Write Java spigot Minecraft Plugins (1.8-R01 API based on Jdk23)</em></strong></li>
+    <li>🟩 <strong>Owns a public Minecraft Minigame Server (play.siammc.com)</strong> •⩊•</li>
+    <img src='https://i.ibb.co/HDGYhP8m/SIAMMC-FULL.png' height=200px />
   </ul>
 </p>
 
