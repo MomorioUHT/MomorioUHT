@@ -15,10 +15,10 @@
 <h3 align="left">🌟 Free Time Activities (About Tech) ₍^. ̫.^₎ </h3>
 <p align="left">
   <ul style="list-style-type: none; padding: 0;">
-    <li>🚧 <strong>Infrastructure Management (docker, compose, nginx, unix related)</strong></li>
-    <li>🧱 <strong>Minecraft Server Spigot/BungeCord Proxy Plugin Development </strong></li>
-    <li>🌐 <strong>Web Application Development (mainly React & Bootstrap)</strong></li>
-    <li>🗄️ <strong>Backend development and API design (express js)</strong></li>
+    <li>🚧 <strong>Infrastructure Management (docker, nginx, hardware)</strong></li>
+    <li>🧱 <strong>Minecraft Server Spigot/BungeeCord/Velocity Proxy Plugin Development </strong></li>
+    <li>🌐 <strong>Web Application Development (Mainly React & Bootstrap)</strong></li>
+    <li>🗄️ <strong>Backend development and API design (express js, flask)</strong></li>
   </ul>
 </p>
 
