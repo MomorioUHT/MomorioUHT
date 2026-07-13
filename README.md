@@ -1,6 +1,10 @@
 <h3 align="left">👋 Hi Im Tontawan Janthai ( ˘͈ ᵕ ˘͈♡)</h3>
-<span>🎓 (Retired) Data Structures & Algorithms's Teacher Assistant @ <strong>Kasetsart University</strong></span> <br/>
-<span>🎓 Data Analyst & Visualization (The Visual) Internship @ <strong>ThaiPBS (Thai Public Broadcasting Service)</strong></span> <br/>
+<span>🎓 Computer Science Student from <strong>Kasetsart University</strong></span><br/>
+
+---
+
+<span>🎓 (Retired) Data Structures & Algorithms's Teacher Assistant @ <strong>Kasetsart University</strong></span><br/>
+<span>🎓 Data Analyst & Visualization (The Visual) Internship @ <strong>ThaiPBS (Thai Public Broadcasting Service)</strong></span><br/>
 
 ---
 
